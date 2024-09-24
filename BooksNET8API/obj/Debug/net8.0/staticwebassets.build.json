@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YMHMevAG4mwERSZOihDVsKDTyVHqpK138tB42w3n0vw=",
+  "Source": "BooksNET8API",
+  "BasePath": "_content/BooksNET8API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

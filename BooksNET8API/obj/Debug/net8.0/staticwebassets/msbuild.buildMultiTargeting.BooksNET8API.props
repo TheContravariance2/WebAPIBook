@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BooksNET8API.props" />
+</Project>

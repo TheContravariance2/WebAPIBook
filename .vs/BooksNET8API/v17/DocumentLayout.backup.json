@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\azure\\Repo\\BooksNET8API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359E8C14-7211-45E3-B9D0-B2FBA0EEB8A0}|BookRestAPIUnitTest\\BookRestAPIUnitTest.csproj|d:\\azure\\repo\\booksnet8api\\bookrestapiunittest\\bookrestapiunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359E8C14-7211-45E3-B9D0-B2FBA0EEB8A0}|BookRestAPIUnitTest\\BookRestAPIUnitTest.csproj|solutionrelative:bookrestapiunittest\\bookrestapiunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|d:\\azure\\repo\\booksnet8api\\booksnet8api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|solutionrelative:booksnet8api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|d:\\azure\\repo\\booksnet8api\\booksnet8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|solutionrelative:booksnet8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|d:\\azure\\repo\\booksnet8api\\booksnet8api\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|solutionrelative:booksnet8api\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|d:\\azure\\repo\\booksnet8api\\booksnet8api\\migrations\\20240910173326_addbooktodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D09FFD-63DE-4F82-B094-6D6DC2D458FE}|BooksNET8API\\BooksNET8API.csproj|solutionrelative:booksnet8api\\migrations\\20240910173326_addbooktodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksNET8API\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksNET8API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:44:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRestAPIUnitTest.cs",
+              "DocumentMoniker": "D:\\azure\\Repo\\BooksNET8API\\BookRestAPIUnitTest\\BookRestAPIUnitTest.cs",
+              "RelativeDocumentMoniker": "BookRestAPIUnitTest\\BookRestAPIUnitTest.cs",
+              "ToolTip": "D:\\azure\\Repo\\BooksNET8API\\BookRestAPIUnitTest\\BookRestAPIUnitTest.cs",
+              "RelativeToolTip": "BookRestAPIUnitTest\\BookRestAPIUnitTest.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:48:08.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240910173326_AddBooktoDB.cs",
+              "DocumentMoniker": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Migrations\\20240910173326_AddBooktoDB.cs",
+              "RelativeDocumentMoniker": "BooksNET8API\\Migrations\\20240910173326_AddBooktoDB.cs",
+              "ToolTip": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Migrations\\20240910173326_AddBooktoDB.cs",
+              "RelativeToolTip": "BooksNET8API\\Migrations\\20240910173326_AddBooktoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:33:26.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Program.cs",
+              "RelativeDocumentMoniker": "BooksNET8API\\Program.cs",
+              "ToolTip": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Program.cs",
+              "RelativeToolTip": "BooksNET8API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:18:31.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BooksNET8API\\Models\\Entities\\Book.cs",
+              "ToolTip": "D:\\azure\\Repo\\BooksNET8API\\BooksNET8API\\Models\\Entities\\Book.cs",
+              "RelativeToolTip": "BooksNET8API\\Models\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:00:53.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
