@@ -1,6 +1,6 @@
 trigger:
   - main
-pool: 'BookNet8AgentPool'
+pool: 'Default'
 
 variables:
   buildConfiguration: Release
